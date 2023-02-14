@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Debeve</h1>
-<h3 align="center">A passionate game developer from France</h3>
+<h3 align="center">A passionate developer from France</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
