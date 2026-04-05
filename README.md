@@ -6,7 +6,7 @@ Je suis un développeur tourné vers la création d'applications web complètes 
 
 ---
 
-### 🚀 Mon Stack Technique
+### 🚀 Ma Stack Technique
 
 | Secteur | Technologies |
 | :--- | :--- |
